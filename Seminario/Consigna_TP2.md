@@ -1,5 +1,7 @@
 # Trabajo Práctico 2 - Redes Neuronales
 
+## Entrega: https://forms.gle/GHjR6GJHhT4m46Jc6
+
 ## Consigna
 
 En este TP deben utilizar el mismo dataset que en el TP1 e implementar con keras una red neuronal que solucione el mismo problema.
